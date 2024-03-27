@@ -141,3 +141,15 @@ Usage: <class_name>.update(<_id>, <dictionary>)
 ```
 <br>
 
+**Original authors:**
+Justin Majetich
+
+Github: <justinmajetich>
+Ezra Nobrega
+
+Github: <eNobreg>
+
+**Fork authors:**
+Ruth Fonseca
+Gituhub: <ruthfonsecass>
+
